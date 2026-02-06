@@ -1,0 +1,21 @@
+Ø Operating System: Windows / Linux / macOS
+Ø Python Version: Python 3.7 or above
+Ø IDE / Editor: Jupyter Notebook / VS Code / PyCharm / Google Colab
+Ø Processor: Intel i3 or higher
+Ø RAM: Minimum 4 GB
+Ø Storage: At least 2 GB free space
+Ø GPU: Optional (CPU is sufficient)
+Ø Python Libraries Required:
+* TensorFlow
+* NumPy
+* Matplotlib
+Ø Dataset: MNIST dataset (automatically downloaded)
+Ø Internet: Required only for initial dataset download
+Ø Basic Knowledge:
+* Python programming
+* Machine Learning
+* Convolutional Neural Networks
+Ø Output:
+* Trained CNN model
+* Accuracy value
+* Predicted handwritten digit
